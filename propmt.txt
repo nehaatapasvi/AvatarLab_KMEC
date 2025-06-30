@@ -1,0 +1,6 @@
+AvatarLab is a creative AI studio specializing in building human-like avatars that can talk and express emotions. Our tools blend deep learning with stunning visuals to create digital personalities for education, content creation, and customer engagement.
+
+1. Input a script or voice
+2. Input your image  avatar
+3. Wait for your results
+4. Download your talking AI generated avatar!
