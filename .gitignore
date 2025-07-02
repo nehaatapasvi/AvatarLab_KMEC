@@ -22,3 +22,51 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Virtual Environment
+wav2lip_env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large files and directories
+checkpoints/
+*.pth
+*.pt
+*.pkl
+*.h5
+*.npy
+*.npz
+
+# Dataset and media files
+*.mp4
+*.avi
+*.mp3
+*.wav
+*.jpg
+*.png
+*.jpeg
+
+# IDE specific files
+.vscode/
+.idea/
+.DS_Store
+
+# Logs and outputs
+logs/
+results/
+outputs/
+*.log
+
+# Local development
+*.local
+
+# Temp files
+temp/vs*
+*.njsproj
+*.sln
+*.sw?
